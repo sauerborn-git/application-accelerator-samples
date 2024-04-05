@@ -62,4 +62,3 @@ as an open-source patch. For more detailed information, refer to [CONTRIBUTING.m
 ## License
 
 [MIT No Attribution](https://opensource.org/licenses/MIT-0) (MIT-0) License
-
